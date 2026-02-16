@@ -1,41 +1,73 @@
-# SchoolHub Support
+# Privacy Policy
 
-Thank you for using **SchoolHub**.
+Effective Date: February 2026
 
-SchoolHub is a school ERP and management platform designed to help educational institutions manage students, staff, attendance, communication, and administrative operations efficiently.
+SchoolHub (“we”, “our”, or “us”) is committed to protecting your privacy.  
+This Privacy Policy explains how information is handled when you use the SchoolHub mobile application.
 
 ---
 
-## Contact Support
+## Information We Collect
 
-If you need assistance, have questions, or would like to report an issue, please reach out to our support team:
+SchoolHub is designed for use by authorized schools and users.  
+The app may process the following types of information:
+
+- User account details (such as name, role, and school identification)
+- Student and staff information entered by the institution
+- App usage data required for core functionality
+
+We do **not** collect personal information for advertising purposes.
+
+---
+
+## How We Use Information
+
+Information is used only to:
+
+- Provide and operate the SchoolHub services  
+- Support school administration and communication  
+- Improve app performance and reliability  
+- Maintain security and prevent unauthorized access  
+
+---
+
+## Data Sharing
+
+SchoolHub does **not sell or rent** user data.
+
+Information may only be shared:
+
+- With the authorized institution using the platform  
+- When required by law or legal obligations  
+- To protect the security and integrity of the service  
+
+---
+
+## Data Security
+
+We implement reasonable security measures to protect user information, including access control and secure storage practices.
+
+---
+
+## Children’s Privacy
+
+SchoolHub is intended for use by schools and authorized users.  
+Student information is managed by the institution and is used only for educational and administrative purposes.
+
+---
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
 
 📧 **Email:** pargat.erp@gmail.com
 
 ---
 
-## Support Hours
+## Updates to This Policy
 
-Our support team typically responds within **1–2 business days**.
-
----
-
-## Common Topics We Can Help With
-
-- Account access and login support  
-- Student and staff management questions  
-- Attendance and notification features  
-- Technical issues or bug reporting  
-- App feedback and feature requests  
-
----
-
-## Feedback
-
-We are continuously improving SchoolHub.  
-Your feedback helps us deliver a better experience for schools, staff, students, and parents.
-
-Thank you for choosing SchoolHub.
+We may update this Privacy Policy from time to time.  
+Any changes will be posted on this page.
 
 ---
 © SchoolHub. All rights reserved.
